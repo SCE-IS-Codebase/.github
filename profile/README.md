@@ -1,5 +1,5 @@
 # Sociedad Científica Estudiantil de Ingeniería de Sistemas 🐧💻
-Bienvenido a la Sociedad Científica de Sistemas, esta es nuestra página de bienvenida dónde podrás aprender más acerca de nosotros
+Bienvenido a la Sociedad Científica de Sistemas de la UCB La Paz, esta es nuestra página de bienvenida dónde podrás aprender más acerca de nosotros
 
 ## Misión
 Promover y apoyar la investigación aplicada, en cada área de
@@ -15,7 +15,7 @@ Los criterios de membresía y los requisitos de afiliación para el registro a l
 capítulos son los siguientes: 
 
 - Ser estudiante regular de la Carrera
-- Llenar el formulario de inscripción 👉 *Está abierta la convocatoria accede al siguiente enlace --* [https://forms.gle/s7GEeWe21oNbeYAQ8]
+- Llenar el formulario de inscripción 👉 *Está abierta la convocatoria accede al siguiente enlace --* https://forms.gle/s7GEeWe21oNbeYAQ8
 - firmar el compromiso de cumplimiento
 
 ## Beneficios
@@ -35,7 +35,7 @@ Los coordinadores de cada capítulo planifican las actividades y eventos que lle
 
 ### Ciencia de datos 🤖
 - **Responsable:** Ing. Oswaldo Figueroa
-- Líneas de investigación:
+- **Líneas de investigación**:
 
 ### Seguridad de información y ciberseguridad 🔏
 - **Responsable:** Ing. Lourdes Peredo
@@ -62,10 +62,10 @@ Los coordinadores de cada capítulo planifican las actividades y eventos que lle
 
 Puedes escribirnos a los organizadores:
 - Alejandro Carrasco:
-  - 📧 [miguel.carrasco@ucb.edu.bo]
+  - 📧 miguel.carrasco@ucb.edu.bo
   - 📱 +591 60676400
 
 - Oscar Campohermoso:
-  - 📧 [oscar.campohermoso@ucb.edu.bo]
+  - 📧 oscar.campohermoso@ucb.edu.bo
   - 📱 +591 76281889
  
