@@ -20,18 +20,22 @@ A continuación el detalle de cada capítulo a nivel general.
 ### Ciencia de datos 🤖
 - **Responsable:** Ing. Oswaldo Figueroa
 - **Líneas de investigación**:
+  Nos enfocamos en desarrollar técnicas innovadoras para explorar grandes conjuntos de datos, identificar patrones complejos y extraer conocimientos valiosos. Esto implica la aplicación de algoritmos de aprendizaje automático y técnicas de inteligencia artificial para mejorar la capacidad predictiva y la toma de decisiones informada. Nuestro objetivo es avanzar en la comprensión y aplicación de métodos analíticos que impulsen la innovación y mejoren la eficiencia en diversas disciplinas.
 
 ### Seguridad de información y ciberseguridad 🔏
 - **Responsable:** Ing. Lourdes Peredo
 - **Líneas de investigación:**
+  Nuestro enfoque se centra en identificar y abordar las debilidades en sistemas de información y redes. Desarrollamos estrategias para evaluar la seguridad de infraestructuras digitales, implementar medidas preventivas y mitigar riesgos. Buscamos fortalecer la resistencia ante amenazas cibernéticas en constante evolución, proporcionando soluciones sólidas y eficaces para garantizar la integridad y confidencialidad de la información.
 
 ### Tecnología empresarial 🏭
 - **Responsable:** Ing. Lucero Yáñez
 - **Líneas de investigación:**
+  Investigamos y aplicamos tecnologías emergentes para impulsar la modernización y eficiencia en entornos empresariales. Buscamos entender cómo las organizaciones pueden adaptarse y aprovechar las últimas innovaciones tecnológicas para mejorar procesos, optimizar la toma de decisiones y fomentar la innovación continua. Nuestro objetivo es proporcionar soluciones prácticas que impulsen el crecimiento y la competitividad de las empresas.
 
 ### Sistemas, Hardware & Software 🧑‍💻
 - **Responsable:** Ing. Ángel Ávila
 - **Líneas de investigación:**
+  Nos dedicamos a desarrollar técnicas para mejorar el rendimiento y la eficiencia de hardware y software en sistemas informáticos. Exploramos nuevas formas de diseñar arquitecturas de sistemas que maximicen la velocidad y minimicen el consumo de recursos. Nuestro objetivo es avanzar en la creación de sistemas más eficientes y potentes, abordando desafíos clave en la optimización de la tecnología informática.
 
 ## Membresía
 Los miembros completos pueden participar directamente en la propuesta, planificación, organización y desarrollo de proyectos y actividades de investigación; además de participación en eventos a los que la SCE-SIS sea invitada como representante oficial y ser coautor en la edición smestral de la revista de la carrera. Como miembros se espera participación y compromiso con nuestros eventos, misión y visión.
