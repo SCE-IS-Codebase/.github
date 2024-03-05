@@ -18,6 +18,8 @@ La convocatoria está abierta! 👉 https://forms.gle/xkCYf1kw1qjKRJZ56
 
 El taller es gratuito para miembros de la SCE
 
+-----
+
 
 ## Misión
 Promover y apoyar la investigación aplicada, en cada área de
