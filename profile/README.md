@@ -1,6 +1,24 @@
 # Sociedad Científica Estudiantil de Ingeniería de Sistemas 🐧💻
 Bienvenido a la Sociedad Científica de Sistemas de la UCB La Paz, esta es nuestra página de bienvenida dónde podrás aprender más acerca de nosotros
 
+-----
+
+# Eventos públicos
+> Taller Git-ABM (24 Feb - 16 Mar)
+> ¿Eres de segundo año?¿Estás cursando la materia de Sistemas de Información I?¿Hiciste un proyecto en grupo y se pasaron más tiempo resolviendo problemas en vez de progresar en el proyecto? ¡Este taller es para ti!
+
+> Vamos a cubrir desde uso de git y GitHub hasta la arquitectura de un proyecto base (backend-frontend) con un proyecto modelo. Formaremos grupos de trabajo y avanzaremos paso a paso en el proceso de construir un sistema transaccional sencillo.
+> Contenido:
+> - COnfigurar git localmente con SSH y una cuenta de GitHub
+> - Arquitectura de un Backend que se conecte con MySQL
+> - Arquitectura de un Frontend Web con Vue
+
+> Costo de inscripción 10Bs.
+> La convocatoria está abierta! 👉 https://forms.gle/xkCYf1kw1qjKRJZ56 
+
+> El taller es gratuito para miembros de la SCE
+
+
 ## Misión
 Promover y apoyar la investigación aplicada, en cada área de
 especialización, fomentar la colaboración, impulsar la innovación y generar
