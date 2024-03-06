@@ -14,7 +14,6 @@ Contenido:
 - Arquitectura de un Backend que se conecte con MySQL
 - Arquitectura de un Frontend Web con Vue
 
-Costo de inscripción 10Bs.
 La convocatoria está abierta! 👉 https://forms.gle/xkCYf1kw1qjKRJZ56 
 
 El taller es gratuito para miembros de la SCE
