@@ -4,11 +4,13 @@ Bienvenido a la Sociedad Científica de Sistemas de la UCB La Paz, esta es nuest
 -----
 
 # Eventos públicos
-### Taller Git-ABM (16 Mar - 06 Abr)
+### Taller Git-ABM (06 Abr - 27 Abr)
+
+**NOTA: Para evitar conflictos con el Censo Nacional y Semana Santa, el evento se pospondrá hasta el mes de Abril**
 
 ¿Eres de segundo año?¿Estás cursando la materia de Sistemas de Información I?¿Hiciste un proyecto en grupo y se pasaron más tiempo resolviendo problemas en vez de progresar en el proyecto? ¡Este taller es para ti!
 
-Vamos a cubrir desde uso de git y GitHub hasta la arquitectura de un proyecto base (backend-frontend) con un proyecto modelo. Formaremos grupos de trabajo y avanzaremos paso a paso en el proceso de construir un sistema transaccional sencillo.
+Durante cuatro sábados vamos a cubrir desde uso de git y GitHub hasta la arquitectura de un proyecto base (backend-frontend) con un proyecto modelo. Formaremos grupos de trabajo y avanzaremos paso a paso en el proceso de construir un sistema transaccional sencillo.
 Contenido:
 - Configurar git localmente con SSH y una cuenta de GitHub
 - Arquitectura de un Backend que se conecte con MySQL
@@ -16,7 +18,7 @@ Contenido:
 
 La convocatoria está abierta! 👉 https://forms.gle/xkCYf1kw1qjKRJZ56 
 
-El taller es gratuito para miembros de la SCE
+El taller es gratuito, pero agradecemos tu colaboración para poder hacer mejores y más grandes eventos.
 
 -----
 
