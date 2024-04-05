@@ -20,6 +20,14 @@ La convocatoria está abierta! 👉 https://forms.gle/xkCYf1kw1qjKRJZ56
 
 El taller es gratuito, pero agradecemos tu colaboración para poder hacer mejores y más grandes eventos.
 
+**Días y horarios**
+| Día         | Hora          | Laboratorio |
+|-------------|---------------|-------------|
+| 06 de Abril | 09:00 - 12:00 | C103        |
+| 13 de Abril | 09:00 - 12:00 | C103        |
+| 20 de Abril | 09:00 - 12:00 | C103        |
+| 27 de Abril | 09:00 - 12:00 | TBD         |
+
 -----
 
 
