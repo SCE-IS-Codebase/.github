@@ -1,6 +1,6 @@
 # Sociedad Científica Estudiantil de Ingeniería de Sistemas 🐧💻
 
-Bienvenido a la Sociedad Científica de Sistemas de la UCB La Paz. Esta es nuestra página de bienvenida, donde podrás aprender más acerca de nosotros.
+Bienvenido a la Sociedad Científica Estudiantil "Norbert Wiener" de la carrera de Ingeniería de Sistemas de la UCB La Paz. Esta es nuestra página de bienvenida, donde podrás aprender más acerca de nosotros.
 
 ## Misión
 
